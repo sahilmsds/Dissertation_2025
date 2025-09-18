@@ -56,7 +56,7 @@ Main libraries:
 ## 📌 Notes
 
 * The **final results** in the dissertation are based on `data/final/dataset.csv` and `Notebooks/modeling/Fitted_models.ipynb`.
-* Other datasets and notebooks are included to demonstrate the **full workflow** and for supervision/reproducibility.
+* Other notebooks are included to demonstrate the **full workflow** and for supervision/reproducibility.
 * Large raw files are excluded from this repo. Please refer to [OpenPowerlifting](https://www.openpowerlifting.org) for original datasets.
 
 ---
