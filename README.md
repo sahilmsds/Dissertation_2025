@@ -12,9 +12,6 @@ The study applies regression-based statistical modeling (Ordinary Least Squares 
 ## 📂 Repository Structure
 
 ### Data (`/data`)
-
-* **raw/** – Original dataset(s) collected
-* **preprocess/** – Intermediate datasets created during cleaning and transformation
 * **final/** – Final dataset used for modeling (`dataset.csv`)
 
 ### Notebooks (`/Notebooks`)
@@ -34,14 +31,6 @@ The study applies regression-based statistical modeling (Ordinary Least Squares 
   * `comparison.ipynb`
   * `Accuracy_40.ipynb`
   * `Models.ipynb`
-
----
-
-## 📑 Dissertation Mapping
-
-* **Chapter 3: Methodology** → `Notebooks/preprocess/` + `data/preprocess/`
-* **Chapter 4: Results** → `Notebooks/modeling/Fitted_models.ipynb` + `data/final/dataset.csv`
-* **Chapter 5: Discussion** → `Notebooks/analysis/`
 
 ---
 
