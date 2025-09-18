@@ -9,6 +9,23 @@ The study applies regression-based statistical modeling (Ordinary Least Squares 
 
 ---
 
+🎯 Why this research matters
+
+This research is important because it bridges data science with sports performance in a transparent and practical way:
+
+Sports relevance – Coaches and athletes gain interpretable insights into how age, bodyweight, and strength metrics influence outcomes, helping to design better training strategies.
+
+Explainable models – Unlike black-box machine learning, the OLS and GAM models provide clear, interpretable results that practitioners can trust.
+
+Transferable methodology – The same workflow (data cleaning → preprocessing → regression modeling → evaluation) applies beyond powerlifting, in areas like healthcare, fitness apps, and athlete scouting.
+
+Evidence-based decisions – Results highlight which factors matter most (e.g., bodyweight and squat performance), supporting data-driven planning for performance improvement.
+
+This makes the project relevant not only for academic research but also for companies in sports analytics, fitness technology, and health data science.
+
+---
+
+
 ## 📂 Repository Structure
 
 ### Data (`/data`)
